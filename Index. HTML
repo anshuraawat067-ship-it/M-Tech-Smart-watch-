@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MTech Smartwatch</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            color: #222;
+        }
+        header {
+            background: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            text-align: center;
+            padding: 40px 20px;
+            background: white;
+        }
+        .hero img {
+            width: 300px;
+            border-radius: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 20px;
+            margin-top: 20px;
+            background: #0073ff;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+        }
+        .section {
+            padding: 30px;
+            background: white;
+            margin: 20px;
+            border-radius: 10px;
+        }
+        .features li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background: #111;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MTech Smartwatch</h1>
+        <p>India's Most Affordable AI Smartwatch</p>
+    </header>
+
+    <section class="hero">
+        <img src="your-watch-image.jpg" alt="MTech Smartwatch" />
+        <h2>MTech AI Smartwatch</h2>
+        <p>Smarter. Faster. Affordable.</p>
+        <a href="YOUR_AMAZON_LINK_HERE" class="btn">Buy on Amazon</a>
+    </section>
+
+    <section class="section">
+        <h2>Features</h2>
+        <ul class="features">
+            <li>✔ AI Assistant Support</li>
+            <li>✔ Bluetooth Calling</li>
+            <li>✔ WhatsApp, Facebook, WeChat Alerts</li>
+            <li>✔ Long Battery Backup</li>
+            <li>✔ Waterproof Design</li>
+            <li>✔ Fitness Tracking</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>About MTech</h2>
+        <p>
+            MTech aims to deliver premium tech products at affordable prices.
+            Our mission is to bring AI-powered smart devices to every home in India.
+        </p>
+    </section>
+
+    <section class="section">
+        <h2>Contact</h2>
+        <p>Email: support@mtech.com</p>
+        <p>WhatsApp: +91-XXXXXXXXXX</p>
+    </section>
+
+    <footer>
+        <p>© 2025 MTech Smartwatch. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
